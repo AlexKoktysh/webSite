@@ -1,5 +1,12 @@
 <template>
-  <hello-one />
+  <div>
+    <common-frame></common-frame>
+    <main>
+      <template>
+        <home-page />
+      </template>
+    </main>
+  </div>
 </template>
 
 <script>

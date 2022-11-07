@@ -3,7 +3,7 @@
     <common-frame></common-frame>
     <main>
       <template>
-        <about-page />
+        <contacts-page />
       </template>
     </main>
   </div>
@@ -11,6 +11,6 @@
 
 <script>
 export default {
-  name: "About",
+  name: "Contacts",
 };
 </script>
